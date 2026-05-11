@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ansh Arora👋
 
-<!--
-**ansharoraiitd/ansharoraiitd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building end-to-end agentic AI systems —
+from ideation to production deployment.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Multi-agent systems with LangGraph
+- RAG pipelines for production
+- Full-stack AI apps: FastAPI + Streamlit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+Python · LangChain · LangGraph · FastAPI
+ChromaDB · Docker · GCP
+
+## Projects
+🔨 Building in public — updated weekly
+
+## Connect
+[LinkedIn](www.linkedin.com/in/ansharoraiitd) | ansh.arora.iitd@gmail.com
