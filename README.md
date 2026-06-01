@@ -4,13 +4,13 @@ I'm building end-to-end agentic AI systems —
 from ideation to production deployment.
 
 ## What I'm working on
-- Multi-agent systems with LangGraph
-- RAG pipelines for production
-- Full-stack AI apps: FastAPI + Streamlit
+- Multi-agent AI systems with LangGraph (Planner→Researcher→Writer→Critic)
+- RAG pipelines for document Q&A with ChromaDB
+- Production agentic AI: FastAPI + deployment coming next
 
 ## Tech stack
-Python · LangChain · LangGraph · FastAPI
-ChromaDB · Docker · GCP
+Python · LangChain · LangGraph · ChromaDB · Gemini API
+Multi-agent systems · RAG · Prompt Engineering
 
 ## Projects
 🔨 Building in public — updated weekly
